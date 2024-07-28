@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VeeamFolderSync": {
+      "commandName": "Project",
+      "commandLineArgs": "a b c"
+    }
+  }
+}

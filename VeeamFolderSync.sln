@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeeamFolderSync", "VeeamFolderSync.csproj", "{A39D6D3F-B632-4A1E-9309-24BCFA3AF857}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A39D6D3F-B632-4A1E-9309-24BCFA3AF857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A39D6D3F-B632-4A1E-9309-24BCFA3AF857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A39D6D3F-B632-4A1E-9309-24BCFA3AF857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A39D6D3F-B632-4A1E-9309-24BCFA3AF857}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C588E37A-B5E2-4F74-8535-5E4A141FF991}
+	EndGlobalSection
+EndGlobal
